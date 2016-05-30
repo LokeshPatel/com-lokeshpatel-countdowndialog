@@ -5,10 +5,10 @@ cordova plugin count down dialog for android application
 
 #Screenshots
 
-<img src="https://dl.dropboxusercontent.com/s/dsyxioyr0znul7u/greenImage0.png?dl=0" alt="Count 0" width="220">
-<img src="https://dl.dropboxusercontent.com/s/hi7dd67fritlovl/greenImage1.png?dl=0" alt="Count 1" width="220">
-<img src="https://dl.dropboxusercontent.com/s/8y65sbasfcy9xf9/greenImage2.png?dl=0" alt="Count 2" width="220">
-<img src="https://dl.dropboxusercontent.com/s/kljsbhdu38spy81/greenImage3.png?dl=0" alt="Count 3" width="220">
+<img src="https://dl.dropboxusercontent.com/s/dsyxioyr0znul7u/greenImage0.png?dl=0" alt="Count 0" width="180">
+<img src="https://dl.dropboxusercontent.com/s/hi7dd67fritlovl/greenImage1.png?dl=0" alt="Count 1" width="180">
+<img src="https://dl.dropboxusercontent.com/s/8y65sbasfcy9xf9/greenImage2.png?dl=0" alt="Count 2" width="180">
+<img src="https://dl.dropboxusercontent.com/s/kljsbhdu38spy81/greenImage3.png?dl=0" alt="Count 3" width="180">
 
 =============
 
