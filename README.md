@@ -47,4 +47,4 @@ cordova plugin add com-lokeshpatel-countdowndialog
 <img src="https://dl.dropboxusercontent.com/s/6z12p5z2bpctvks/redImage1.png?dl=0" alt="Count 0" width="239">
 <img src="https://dl.dropboxusercontent.com/s/vvpaqcuu7uh0qwc/redImage2.png?dl=0" alt="Count 1" width="239">
 <img src="https://dl.dropboxusercontent.com/s/pq4pk56gr3g2mcw/redImage3.png?dl=0" alt="Count 2" width="239">
-<img src="https://dl.dropboxusercontent.com/s/pq4pk56gr3g2mcw/redImage3.png?dl=0" alt="Count 3" width="239">
+<img src="https://dl.dropboxusercontent.com/s/2rytz6iatxysrzq/redImage4.png?dl=0" alt="Count 3" width="239">
