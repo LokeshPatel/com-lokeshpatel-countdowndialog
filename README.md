@@ -1,4 +1,6 @@
-cordova-plugin-countdowndialog
+
+cordova plugin count down dialog for android application
+
 =============
 
 ## Installation
@@ -15,7 +17,8 @@ cordova plugin add com-lokeshpatel-countdowndialog
  ```
      CountDownDialog.show();
 ```
-### Need to custom count down dialog like : Change fontSize,fontColor,increase/decrease time and start form 1/0
+### Need to custom count down dialog like :
+    Change fontSize,fontColor,increase/decrease time and start form 1/0.
 ```
  var option = {"countTime":"12000",
                 "fontSize":"150",
