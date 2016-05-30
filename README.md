@@ -35,10 +35,16 @@ cordova plugin add com-lokeshpatel-countdowndialog
     
 
 
-#Screenshots
+#Screenshots Green Color
 
 <img src="https://dl.dropboxusercontent.com/s/dsyxioyr0znul7u/greenImage0.png?dl=0" alt="Count 0" width="239">
 <img src="https://dl.dropboxusercontent.com/s/hi7dd67fritlovl/greenImage1.png?dl=0" alt="Count 1" width="239">
 <img src="https://dl.dropboxusercontent.com/s/8y65sbasfcy9xf9/greenImage2.png?dl=0" alt="Count 2" width="239">
+<img src="https://dl.dropboxusercontent.com/s/kljsbhdu38spy81/greenImage3.png?dl=0" alt="Count 3" width="239">
 
+#Screenshots Red Color
 
+<img src="https://dl.dropboxusercontent.com/s/6z12p5z2bpctvks/redImage1.png?dl=0" alt="Count 0" width="239">
+<img src="https://dl.dropboxusercontent.com/s/vvpaqcuu7uh0qwc/redImage2.png?dl=0" alt="Count 1" width="239">
+<img src="https://dl.dropboxusercontent.com/s/pq4pk56gr3g2mcw/redImage3.png?dl=0" alt="Count 2" width="239">
+<img src="https://dl.dropboxusercontent.com/s/pq4pk56gr3g2mcw/redImage3.png?dl=0" alt="Count 3" width="239">
