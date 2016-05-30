@@ -1,15 +1,11 @@
 
-cordova plugin count down dialog for android application
-
  Developed plugin for show android native dialog and display count down except loader (Spinner) image.
-
+ 
 #Screenshots
-
 <img src="https://dl.dropboxusercontent.com/s/dsyxioyr0znul7u/greenImage0.png?dl=0" alt="Count 0" width="180">
 <img src="https://dl.dropboxusercontent.com/s/hi7dd67fritlovl/greenImage1.png?dl=0" alt="Count 1" width="180">
 <img src="https://dl.dropboxusercontent.com/s/8y65sbasfcy9xf9/greenImage2.png?dl=0" alt="Count 2" width="180">
 <img src="https://dl.dropboxusercontent.com/s/kljsbhdu38spy81/greenImage3.png?dl=0" alt="Count 3" width="180">
-
 =============
 
 ## Installation
@@ -34,8 +30,8 @@ cordova plugin add com-lokeshpatel-countdowndialog
  ```
      CountDownDialog.show();
 ```
-### Need to custom count down dialog like :
-    Change fontSize,fontColor,increase/decrease time and start form 1/0.
+### Need to custom count down dialog :
+  Change fontSize,fontColor,increase/decrease time and start form 1/0.
 ```
  var option = {"countTime":"12000",
                 "fontSize":"150",
