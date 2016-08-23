@@ -58,3 +58,6 @@ cordova plugin add com-lokeshpatel-countdowndialog
 <img src="https://dl.dropboxusercontent.com/s/vvpaqcuu7uh0qwc/redImage2.png?dl=0" alt="Count 1" width="180">
 <img src="https://dl.dropboxusercontent.com/s/pq4pk56gr3g2mcw/redImage3.png?dl=0" alt="Count 2" width="180">
 <img src="https://dl.dropboxusercontent.com/s/2rytz6iatxysrzq/redImage4.png?dl=0" alt="Count 3" width="180">
+
+
+<a href="https://www.paypal.me/LokeshPatel" target="_blank"><img src="https://dl.dropboxusercontent.com/s/r5azqieu9stu0pc/pay-now-button-afme.png?dl=0" alt="Count 0" width="160"/></a>
